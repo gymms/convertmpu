@@ -1,0 +1,7 @@
+Beschreibung von Convertmpu
+
+Convertmpu ist ein Programm, das Musikplaylisten mit Format mpu in einfach lesbare Form konvertiert bzw. in Excel überträgt. Es dient dazu, schnell einen Überblick über bereits erstellte Playlisten zu erhalten und mit einer Musikdatenbank abzugleichen.
+
+Convertmpu wird in python geschrieben und wird in der ersten Version für das Betriebssystem Windows 10 entwikelt.
+
+Start der Entwicklung ist der 11.6.2021
