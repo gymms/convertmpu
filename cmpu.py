@@ -9,7 +9,7 @@ def convert_mpu():
 def push_tracks_to_excel():
     pass
 
-if __name__=__main__:
+if __name__=="__main__":
     open_mpu()
     convert_mpu()
     push_tracks_to_excel()
